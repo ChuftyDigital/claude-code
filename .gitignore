@@ -1,3 +1,10 @@
 .DS_Store
 
 C:/Users/wtfau/influencer_lora_pipeline/.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
